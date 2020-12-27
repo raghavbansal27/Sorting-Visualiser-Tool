@@ -10,9 +10,9 @@ This is a Sorting visualiser tool made using [Tkinter](https://docs.python.org/3
 
 
 ## Some output images
-![Welcome](sample/welcome.png)
-![Theme 1](sample/theme1.png)
-![Theme 2](sample/theme2.png)
-![Theme 3](sample/theme3.png)
+<img src="sample/welcome.png" width="400" height="300">
+<img src="sample/theme1.png" width="400" height="300">
+<img src="sample/theme2.png" width="400" height="300">
+<img src="sample/theme3.png" width="400" height="300">
 
 > Code is written in python 3.7 
